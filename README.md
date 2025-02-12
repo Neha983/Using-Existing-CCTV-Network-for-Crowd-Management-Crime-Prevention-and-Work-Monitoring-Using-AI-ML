@@ -1,0 +1,2 @@
+# Using-Existing-CCTV-Network-for-Crowd-Management-Crime-Prevention-and-Work-Monitoring-Using-AI-ML
+This project aims to enhance public safety,security and workplace efficiency by AI and ML with existing CCTV infrastructure. By leveraging computer vision and real-time analytics, the system will provide automated surveilance, anomaly detection, and predictive insights for crowd management, crime prevention, and workforce monitoring.
